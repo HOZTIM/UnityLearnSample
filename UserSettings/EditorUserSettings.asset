@@ -7,10 +7,14 @@ EditorUserSettings:
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0501060006575d0954080d2148210c44401549732f7c75677d7f1960b3b26c60
 =======
       value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
 >>>>>>> alexandro
+=======
+      value: 070450555d03595f5a0c0f2347270e44474e1c7c792b2769757f4a32b4e66460
+>>>>>>> laura
       flags: 0
     RecentlyUsedScenePath-0:
       value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
@@ -33,12 +37,17 @@ EditorUserSettings:
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DesiredImportWorkerCount: 2
   m_StandbyImportWorkerCount: 2
 =======
   m_DesiredImportWorkerCount: 1
   m_StandbyImportWorkerCount: 1
 >>>>>>> alexandro
+=======
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+>>>>>>> laura
   m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
